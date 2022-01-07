@@ -1,0 +1,20 @@
+{
+    "output": "generated/sample.",
+    "chain": "avalanche",
+    "datasources": [
+        {
+            "address": "0xf6d46849db378ae01d93732585bec2c4480d1fd5",
+            "startBlock": 7117319,
+            "module": [
+                "erc20"
+            ]
+        },
+        {
+            "address": "0x6B8FB769d1957F2c29aBc9d1bEB95851cce775D8",
+            "startBlock": 7117331,
+            "module": [
+                "erc20"
+            ]
+        }
+    ]
+}
